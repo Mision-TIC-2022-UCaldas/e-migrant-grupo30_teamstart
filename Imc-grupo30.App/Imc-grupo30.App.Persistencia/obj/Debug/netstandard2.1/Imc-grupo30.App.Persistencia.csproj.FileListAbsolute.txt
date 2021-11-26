@@ -1,0 +1,4 @@
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Imc-grupo30.App\Imc-grupo30.App.Persistencia\obj\Debug\netstandard2.1\Imc-grupo30.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Imc-grupo30.App\Imc-grupo30.App.Persistencia\obj\Debug\netstandard2.1\Imc-grupo30.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Imc-grupo30.App\Imc-grupo30.App.Persistencia\obj\Debug\netstandard2.1\Imc-grupo30.App.Persistencia.AssemblyInfo.cs
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Imc-grupo30.App\Imc-grupo30.App.Persistencia\obj\Debug\netstandard2.1\Imc-grupo30.App.Persistencia.csproj.CoreCompileInputs.cache

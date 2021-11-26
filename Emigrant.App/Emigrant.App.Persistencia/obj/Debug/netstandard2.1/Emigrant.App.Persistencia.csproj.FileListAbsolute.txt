@@ -1,0 +1,12 @@
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfo.cs
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.deps.json
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.dll
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.pdb
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CopyComplete
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
+C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb
