@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p91Ld2bcY8SWBMgMZB/rAHqjOaoP6QgLMj5pABiST8gR6DPgcpru4p/guzLfVo1H4oWP2zYNDUhQdRmXaqR5Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Imc-grupo30.App\\Imc-grupo30.App.Servicios\\Imc-grupo30.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catalina Castro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Catalina Castro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
