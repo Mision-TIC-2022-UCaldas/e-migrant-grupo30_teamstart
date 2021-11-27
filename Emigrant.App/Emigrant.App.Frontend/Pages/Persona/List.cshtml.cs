@@ -1,3 +1,4 @@
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,4 +26,4 @@ namespace Emigrant.App.Frontend.Pages
         Personas=repositorioPersona.GetAll();
     }
     }
-}
+}*/

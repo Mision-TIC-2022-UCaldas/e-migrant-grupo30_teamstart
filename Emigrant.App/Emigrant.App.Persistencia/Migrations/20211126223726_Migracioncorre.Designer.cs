@@ -3,14 +3,16 @@ using Emigrant.App.Persistencia;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Emigrant.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    partial class AppContextModelSnapshot : ModelSnapshot
+    [Migration("20211126223726_Migracioncorre")]
+    partial class Migracioncorre
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -72,7 +74,7 @@ namespace Emigrant.App.Persistencia.Migrations
                     b.ToTable("Migrantes");
                 });
 
-            modelBuilder.Entity("Emigrant.App.Dominio.Personas", b =>
+            modelBuilder.Entity("Emigrant.App.Dominio.Persona", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()

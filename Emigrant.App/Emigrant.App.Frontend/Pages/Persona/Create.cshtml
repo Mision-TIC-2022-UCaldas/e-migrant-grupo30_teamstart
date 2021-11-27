@@ -1,27 +1,21 @@
-
-@page
+ @page
 @model Emigrant.App.Frontend.Pages.FormPersonaModel
 @{
 }
+
+ 
  
 <div class="text-center">
 <form method=”POST”>
-    <div class="text-center">
-   <label for="tipo_documento" class="form-label">Tipo de Documento:</label>
-   <select class="tipo_documento" class="form-control">
-   <option value="R.C">Registro civil</option>
-   <option value="C.C">Cedula Ciudadania</option>
-   <option value="T.I">Tarjeta de identidad</option>
-   <option value="C.E">Cedula Extranjera</option>
-  </select>
-  <label for="documento" class="form-label">Documento:</label>
-  <input type="text"  id="documento" name="documento" placeholder="Documento">
-  </div>
+  
   <label for="nombre" class="form-label">Nombre:</label>
   <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
   <label for="apellidos" class="form-label">Apellidos:</label>
   <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos">
-  
+   <label for="tipo_documento" class="form-label">Tipo de Documento:</label>
+  <input type="text" class="form-control" id="tipo_documento" name="tipo_documento" placeholder="tipo_documento">
+  <label for="documento" class="form-label">Documento:</label>
+  <input type="text"  id="documento" name="documento" placeholder="Documento">
   <label for="pais_origen" class="form-label">País de origen:</label>
   <input type="text" class="form-control" id="pais_origen" name="pais_origen" placeholder="País de Origen">
   <label for="fecha_nacimiento" class="form-label">Fecha de nacimiento:</label>
@@ -34,8 +28,7 @@
   <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion">
   <label for="ciudad" class="form-label">Ciudad:</label>
   <input type="text" class="form-control" id="ciudad" name="ciudad" placeholder="Ciudad">
-  <label for="situacion_laboral" class="form-label">Situación laboral:</label>
-  <input type="text" class="form-control" id="situacion_laboral" name="situacion_laboral" placeholder="Situacion laboral">
+ 
   <hr>
 <button type="submit" class="btn btn-success">Enviar</button>
 </form>

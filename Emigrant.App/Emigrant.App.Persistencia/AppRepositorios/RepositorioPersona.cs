@@ -7,24 +7,23 @@ namespace Emigrant.App.Persistencia.AppRepositorios
 {
     public class RepositorioPersona
     {
-        List<Persona> personas;
- 
-    public RepositorioPersona()
-        {
-            personas= new List<Persona>()
-            {
-                
- 
-            };
+        List<Persona> Personas;
+        private readonly AppContext _appContext = new AppContext();   
+       public IEnumerable<Persona> GetAll()
+       {
+           return _appContext.Personas;
         }
- 
-        public IEnumerable<Persona> GetAll()
-        {
-            return personas;
-        }
+
  
         public Persona GetPersonaWithId(int id){
-            return personas.SingleOrDefault(b => b.id == id);
+            return _appContext.Personas.Find(id);
+        }
+
+        public Persona Create(Persona newPersona)
+        {
+          var addPersona = _appContext.Personas.Add(newPersona);
+            _appContext.SaveChanges();
+            return addPersona.Entity;
         }
     }
 }

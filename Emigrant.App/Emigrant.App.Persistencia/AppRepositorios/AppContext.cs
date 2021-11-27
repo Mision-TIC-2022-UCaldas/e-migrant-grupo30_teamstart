@@ -4,6 +4,7 @@ namespace Emigrant.App.Persistencia
 {
     public class AppContext: DbContext{
         public DbSet<Persona> Personas { get; set; }
+
         public DbSet<Servicio> Servicios { get; set; }
         public DbSet<Migrante> Migrantes { get; set; }
          public DbSet<Entidad> Entidades { get; set; }
