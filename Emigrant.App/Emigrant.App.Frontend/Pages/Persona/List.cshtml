@@ -1,0 +1,49 @@
+@page
+@model Emigrant.App.Frontend.Pages.ListPersonaModel
+@{
+}
+ 
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Apellidos</th>
+      <th scope="col">Tipo Id</th>
+      <th scope="col">Identificacion</th>
+      <th scope="col">Pais Origen</th>
+      <th scope="col">Fecha de Nacimiento</th>
+      <th scope="col">Direccion Electronica</th>
+      <th scope="col">Telefono</th>
+      <th scope="col">Direccion Actual</th>
+      <th scope="col">Ciudad</th>
+      <th scope="col">Situacion Laboral</th>
+    </tr>
+  </thead>
+  @foreach (var pers in Model.Persona)
+    {
+        <tr>
+            <td>@pers.id</td>
+            <td>@pers.nombre</td>
+            <td>@pers.apellidos</td>
+            <td>@pers.tipodocumento</td>
+            <td>@pers.numeroidentificacion</td>
+            <td>@pers.paisorigen</td>
+            <td>@pers.fechanacimiento</td>
+            <td>@pers.email</td>
+            <td>@pers.telefono</td>
+            <td>@pers.direccionactual</td>
+            <td>@pers.ciudad</td>
+            <td>@pers.situacionlaboral</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-personaId="@pers.id">Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-personaId="@pers.id">Editar</a>
+              <form method="POST">
+                <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@pers.id">
+                <button type="submit"class="btn btn-danger" href="">Eliminar</button>
+              </form>
+              </td>
+        </tr>
+    }
+
+</table>

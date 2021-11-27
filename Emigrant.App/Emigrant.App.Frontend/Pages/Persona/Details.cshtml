@@ -1,0 +1,20 @@
+@page
+@model Emigrant.App.Frontend.Pages.DetailsPersonaModel
+@{
+    var pers = Model.Persona;
+}
+ 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"> <b>id: </b> @pers.id</li>
+  <li class="list-group-item"> <b>Nombre: </b> @pers.nombre</li>
+  <li class="list-group-item"> <b>Apellidos: </b> @pers.apellidos</li>
+  <li class="list-group-item"><b>Tipo Doc: </b> @pers.tipodocumento</li>
+  <li class="list-group-item"><b>Numero Identificacion: </b> @pers.numeroidentificacion</li>
+  <li class="list-group-item"><b>Pais: </b> @pers.paisorigen</li>
+  <li class="list-group-item"><b>:Fecha De Nacimiento: </b> @pers.fechanacimiento</li>
+  <li class="list-group-item"><b>Direccion Electronica: </b> @pers.email</li>
+  <li class="list-group-item"><b>Telefono: </b> @pers.telefono</li>
+  <li class="list-group-item"><b>Direccion Actual: </b> @pers.direccionactual</li>
+  <li class="list-group-item"><b>Ciudad: </b> @pers.ciudad</li>
+  <li class="list-group-item"><b>Situacion Laboral: </b> @pers.situacionlaboral</li>
+</ul>

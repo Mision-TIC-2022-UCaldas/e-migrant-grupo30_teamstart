@@ -1,0 +1,36 @@
+@page
+@model Emigrant.App.Frontend.Pages.FormPersonaModel
+@{
+    var pers = Model.Persona;
+}
+ 
+<div class="text-center">
+<form method="POST">
+  <label for="nombre" class="form-label">Nombre:</label>
+  <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre" asp-for="Persona.nombre" required>
+  <span class="text-danger" asp-validation-for="@pers.nombre"></span>
+  <label for="apellidos" class="form-label">Apellidos:</label>
+  <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos">
+  <label for="tipodocumento" class="form-label">Tipo Documento:</label>
+  <input type="string" class="form-control" id="tipodocumento" name="tipodocumento" placeholder="Tipodocumento">
+  <label for="numeroidentificacion" class="form-label">Numero Identificacion:</label>
+  <input type="string" class="form-control" id="numeroidentificacion" name="numeroidentificacion" placeholder="Numero Identificacion">
+  <label for="paisorigen" class="form-label">Pais Origen:</label>
+  <input type="string" class="form-control" id="paisorigen" name="paisorigen" placeholder="Pais Origen">
+  <label for="email" class="form-label">Direccion Electronica:</label>
+  <input type="string" class="form-control" id="email" name="email" placeholder="Direccion Electronica">
+  <label for="fechanacimiento" class="form-label">Fecha de Nacimiento:</label>
+  <input type="string" class="form-control" id="fechanacimiento" name="fechanacimiento" placeholder="Fecha de Nacimiento">
+  <label for="telefono" class="form-label">Telefono:</label>
+  <input type="string" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+  <label for="direccionactual" class="form-label">Direccion actual:</label>
+  <input type="string" class="form-control" id="direccionactual" name="direccionactual" placeholder="Direccion actual">
+  <label for="ciudad" class="form-label">Ciudad:</label>
+  <input type="string" class="form-control" id="ciudad" name="ciudad" placeholder="Ciudad">
+  <label for="situacionlaboral" class="form-label">Situacion Laboral:</label>
+  <input type="string" class="form-control" id="situacionlaboral" name="situacionlaboral" placeholder="Situacion Laboral">
+  <hr>
+  <button type="submit" class="btn btn-success">Enviar</button>
+</form>
+</div>
+
