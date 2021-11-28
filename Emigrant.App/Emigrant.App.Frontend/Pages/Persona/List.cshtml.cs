@@ -6,9 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Emigrant.App.Persistencia.AppRepositorios;
 using Emigrant.App.Dominio;
+using Microsoft.AspNetCore.Authorization;
+
  
 namespace Emigrant.App.Frontend.Pages
 {
+        [Authorize]
+
     public class ListPersonaModel : PageModel
     {
 
