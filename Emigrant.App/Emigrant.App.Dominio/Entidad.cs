@@ -2,6 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace Emigrant.App.Dominio{
+    
     public class Entidad{
         public int id { get; set; }
        [Required]

@@ -3,7 +3,6 @@ using Emigrant.App.Dominio;
 using System.Linq;
 using System;
 
-
 namespace Emigrant.App.Persistencia.AppRepositorios
 {
     public class RepositorioEntidad
@@ -53,10 +52,7 @@ namespace Emigrant.App.Persistencia.AppRepositorios
                 return;
             _appContext.Entidades.Remove(Entidad);
             _appContext.SaveChanges();    
-        }
-
-        
-
+        }        
 
     }
 }

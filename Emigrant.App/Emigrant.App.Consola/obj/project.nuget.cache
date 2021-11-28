@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NyS811zZtOuvjxYoSCWTdQeNjuMKWLEpAlIPmGGeGradusWUu6770nut0JwpAswpD+cdeOxL507zbyZS2h7RzA==",
+  "dgSpecHash": "Cdfm41tlwu+YWnYUru+owo/WMD3j1TKNjQNLJvm3HPF5uKNfLlBOnu/PmTE7gdKec+xU5jSyw+2u/TpViRbDrg==",
   "success": true,
-  "projectFilePath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
+  "projectFilePath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -8,3 +8,13 @@ G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_te
 G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.csproj.CoreCompileInputs.cache
 G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.dll
 G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.pdb
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.csproj.AssemblyReference.cache
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.AssemblyInfoInputs.cache
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.AssemblyInfo.cs
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.csproj.CoreCompileInputs.cache
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.dll
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\obj\Debug\netstandard2.0\Emigrant.App.Dominio.pdb
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\bin\Debug\netstandard2.0\Emigrant.App.Dominio.deps.json
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\bin\Debug\netstandard2.0\Emigrant.App.Dominio.dll
+G:\Andrea v4\hack\Emigrant.App\Emigrant.App.Dominio\bin\Debug\netstandard2.0\Emigrant.App.Dominio.pdb

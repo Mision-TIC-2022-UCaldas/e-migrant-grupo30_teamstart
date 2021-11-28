@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "peUGPPNp5k4QpkrDs3NLwmURW42pjNVW9+y54T7YCka7Ynsm8a2Wv1ffSvJLgCd00fxFYjXPBhYWPRRtVUQUdw==",
+  "dgSpecHash": "c5a2uDJzbeuTNppCLMeHZ8ZST0H/huDl2AUS3IyIhKpD7oQ86RnAMgb/uTAnEmwrndZbb9HIM6kJ2fAeeutZZw==",
   "success": true,
-  "projectFilePath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Frontend\\Emigrant.App.Frontend.csproj",
+  "projectFilePath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Frontend\\Emigrant.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj": {}
+    "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj": {}
   },
   "projects": {
-    "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj": {
+    "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
+        "projectUniqueName": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
         "projectName": "Emigrant.App.Consola",
-        "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
+        "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\Emigrant.App.Consola.csproj",
         "packagesPath": "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\",
-        "outputPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Consola\\obj\\",
+        "outputPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comunicaciones Imp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj": {
-                "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj"
+              "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj": {
+                "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
+    "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+        "projectUniqueName": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
         "projectName": "Emigrant.App.Dominio",
-        "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+        "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\",
-        "outputPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\obj\\",
+        "outputPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comunicaciones Imp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj": {
+    "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
+        "projectUniqueName": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
         "projectName": "Emigrant.App.Persistencia",
-        "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
+        "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\",
-        "outputPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\obj\\",
+        "outputPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comunicaciones Imp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -163,8 +163,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
-                "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj"
+              "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
+                "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6VExJdjDkndY871K0vbvy/g3CNwMJYODg1RzjHNBF+oJWWDTuAUG6E9j8+C/LhmMq9EpZUKbGOwD+vLxsX06qg==",
+  "dgSpecHash": "m7ils2S/dApXSIKoedZJiOQATgU84tUYjvifXRx5U+zvVJhvVJzH6j4S0Gt6h5xQPuuoUIf0diGfZRG2y7vudQ==",
   "success": true,
-  "projectFilePath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+  "projectFilePath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

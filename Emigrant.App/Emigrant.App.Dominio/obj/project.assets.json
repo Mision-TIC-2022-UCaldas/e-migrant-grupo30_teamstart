@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+      "projectUniqueName": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
       "projectName": "Emigrant.App.Dominio",
-      "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+      "projectPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\",
-      "outputPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\obj\\",
+      "outputPath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Comunicaciones Imp\\AppData\\Roaming\\NuGet\\NuGet.Config"

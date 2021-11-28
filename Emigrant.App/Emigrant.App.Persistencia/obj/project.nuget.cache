@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RaOvwYGmwPjCpJc2mAXI52PyPsgGw8N5YYroQYMj9O+3ce3X7Ia89mBZwSkaYrLoXYuf5ufpPV3fMMJZb8i5CA==",
+  "dgSpecHash": "pj8+SSZCNSJsyiqA3KN6ymCALGcK1xqbcZnMuQ5pzNGlCHRCQELMVozDPa6WI2p1Jhn6pzgm8gjFs7DUJcckyg==",
   "success": true,
-  "projectFilePath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
+  "projectFilePath": "G:\\Andrea v4\\hack\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
