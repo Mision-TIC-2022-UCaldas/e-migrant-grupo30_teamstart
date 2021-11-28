@@ -1,5 +1,5 @@
 @page
-@model Emigrant.App.Frontend.Pages.DetailsPersonaModel
+  @model Emigrant.App.Frontend.Pages.EditPersonaModel
 @{
     var pers = Model.Persona;
 }
@@ -19,7 +19,7 @@
   <label for="Pais" class="form-label">Pais Origen:</label>
   <input type="text" class="form-control" id="paisorigen" name="paisorigen" placeholder="Pais Origen" asp-for="@pers.paisorigen">
   <label for="fechanacimiento" class="form-label">Fecha de Nacimiento:</label>
-  <input type="text" class="form-control" id="fechanacimiento" name="fechanacimiento" placeholder="Fecha de Nacimiento" asp-for="@pers.fechanacimiento">
+  <input type="Date" class="form-control" id="fechanacimiento" name="fechanacimiento" placeholder="Fecha de Nacimiento" min="1908-01-01" max="2021-11-27" asp-for="@pers.fechanacimiento" >
   <label for="email" class="form-label">Direccion Electronca:</label>
   <input type="text" class="form-control" id="email" name="email" placeholder="Direccion Electronca" asp-for="@pers.email">
   <label for="direccionactual" class="form-label">Direccion Actual:</label>

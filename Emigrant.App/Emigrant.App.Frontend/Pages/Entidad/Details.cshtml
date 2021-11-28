@@ -1,0 +1,19 @@
+@page
+@model Emigrant.App.Frontend.Pages.DetailsEntidadModel
+@{
+    var Entidad = Model.Entidad;
+}
+ 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"> <b>id: </b> @Entidad.id</li>
+  <li class="list-group-item"> <b>Razon Social: </b> @Entidad.razón_social</li>
+  <li class="list-group-item"> <b>Entidad: </b> @Entidad.nit</li>
+  <li class="list-group-item"><b>Dirección: </b> @Entidad.direccion</li>
+  <li class="list-group-item"><b>Ciudad: </b> @Entidad.ciudad</li>
+  <li class="list-group-item"><b>Telefono: </b> @Entidad.telefono</li>
+  <li class="list-group-item"><b>:Dirección Electronica: </b> @Entidad.direccion_electronica</li>
+  <li class="list-group-item"><b>Pagina Web: </b> @Entidad.pagina_web</li>
+  <li class="list-group-item"><b>Sector: </b> @Entidad.sector</li>
+  <li class="list-group-item"><b>Tipo Servicio: </b> @Entidad.tipo_servicio</li>
+ 
+</ul>

@@ -1,0 +1,51 @@
+@page
+@model Emigrant.App.Frontend.Pages.FormEntidadModel
+@{
+    var Entidad = Model.Entidad;
+}
+ 
+<div class="text-center">
+<form method="POST">
+  <label for="razón_social" class="form-label">Razon Social:</label>
+  <input type="text" class="form-control" id="razón_social" name="razón_social" placeholder="Razón social" asp-for="Entidad.razón_social" required>
+  <span class="text-danger" asp-validation-for="@Entidad.razón_social"></span>
+  <label for="nit" class="form-label">Nit:</label>
+  <input type="text" class="form-control" id="nit" name="nit" placeholder="Nit" required>
+  <label for="direccion" class="form-label">Direccion:</label>
+  <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion" required>
+  <label for="ciudad" class="form-label"> ciudad:</label>
+  <input type="text" class="form-control" id="ciudad" name="ciudad" placeholder="Ciudad " required> 
+  <label for="telefono" class="form-label">Telefono:</label>
+  <input type="text" class="form-control" id="telefono" name="telefono" placeholder="Telefono" required>
+  <label for="direccion_electronica" class="form-label">Direccion Electronica:</label>
+  <input type="email" class="form-control" id="direccion_electronica" name="direccion_electronica" placeholder="Direccion Electronica" >
+  <label for="pagina_web" class="form-label">Pagina web:</label>
+  <input type="text" class="form-control" id="pagina_web" name="pagina_web" placeholder="Pagina web">
+  <label for="sector" class="form-label">Sector:</label>
+  <select class="form-control form-select" id="sector" name="sector" aria-label="Default select example" required>
+  <option selected>Seleccione un sector</option>
+  <option value="Publico">Publico</option>
+  <option value="Privado">Privado</option>
+  <option value="Sin ánimo de lucro">Sin ánimo de lucro</option>
+  <option value="No gubernamental">No gubernamental</option>
+  <option value="Otro">Otro</option>
+
+  </select>
+  <label for="tipo_servicio" class="form-label">Tipo Servicio:</label>
+  <select class="form-control form-select" id="tipo_servicio" name="tipo_servicio" aria-label="Default select example" required>
+  <option selected>Seleccione un tipo de servicio</option>
+  <option value="Publico">Salud</option>
+  <option value="Jurídicos">Jurídicos</option>
+  <option value="Víveres">Víveres</option>
+  <option value="Comida preparada">Comida preparada</option>
+  <option value="Empleo">Empleo</option>
+  <option value="Alojamiento temporal">Alojamiento temporal</option>
+  <option value="Alojamiento permanente">Alojamiento permanente</option>
+  <option value="Educación">Educación</option>
+  <option value="Otros">Otros</option>
+
+</select>
+    <hr>
+  <button type="submit" class="btn btn-success">Enviar</button>
+</form>
+</div>
