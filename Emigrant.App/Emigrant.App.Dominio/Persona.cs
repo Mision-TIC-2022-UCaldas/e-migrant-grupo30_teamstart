@@ -1,20 +1,20 @@
 using System;
-using System.ComponentModel.DataAnnotations;
+//using System.ComponentModel.DataAnnotations;
 
 namespace Emigrant.App.Dominio{
     public class Persona{
         public int id { get; set; }
-       [Required]
+      // [Required]
         public string nombre { get; set; }
-        [Required]
+      //  [Required]
         public string apellidos { get; set; }
-        [Required]
+      //  [Required]
         public string tipodocumento { get; set; }
-        [Required]
+      //  [Required]
         public string numeroidentificacion { get; set; }
-        [Required]
+      //  [Required]
         public string paisorigen { get; set; }
-       [Required]
+      // [Required]
         public string fechanacimiento { get; set; }
         public string email { get; set; }
         public string telefono { get; set; }

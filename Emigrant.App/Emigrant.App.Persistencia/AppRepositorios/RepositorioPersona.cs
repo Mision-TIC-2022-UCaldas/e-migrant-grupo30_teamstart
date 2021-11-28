@@ -41,8 +41,7 @@ namespace Emigrant.App.Persistencia.AppRepositorios
                 person.ciudad = newPersona.ciudad;
                 person.situacionlaboral = newPersona.situacionlaboral;
                 _appContext.SaveChanges();
-
-            }
+            }            
             return person;
         }
 

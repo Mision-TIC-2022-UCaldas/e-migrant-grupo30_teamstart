@@ -1,11 +1,11 @@
 @page
-  @model Emigrant.App.Frontend.Pages.EditPersonaModel
+@model Emigrant.App.Frontend.Pages.EditPersonaModel
 @{
     var pers = Model.Persona;
 }
  
 <div class="text-center">
-<form method="POST">
+<form method="post">
    <label for="id" class="form-label">id:</label>
   <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@pers.id">
   <label for="Nombre" class="form-label">Nombre:</label>
