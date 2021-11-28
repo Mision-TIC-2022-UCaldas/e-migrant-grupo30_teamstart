@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGhUlEikqQKdNcyjSGTl3ZXrApW7HlYPk8rCfaKaA3i12jB5PA2Ykoz4vIIgyP7LUTIKRuzWBp5eLxD+9YAhdw==",
+  "dgSpecHash": "6VExJdjDkndY871K0vbvy/g3CNwMJYODg1RzjHNBF+oJWWDTuAUG6E9j8+C/LhmMq9EpZUKbGOwD+vLxsX06qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+  "projectFilePath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Catalina Castro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Catalina Castro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

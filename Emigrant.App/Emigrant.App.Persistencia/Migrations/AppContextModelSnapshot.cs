@@ -26,27 +26,33 @@ namespace Emigrant.App.Persistencia.Migrations
                         .UseIdentityColumn();
 
                     b.Property<string>("ciudad")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("correo")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("direccion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("direccion_electronica")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nit")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("paginaweb")
+                    b.Property<string>("pagina_web")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("razon_social")
+                    b.Property<string>("razón_social")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("sector")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("telefono")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("tipo_servicio")
@@ -57,22 +63,7 @@ namespace Emigrant.App.Persistencia.Migrations
                     b.ToTable("Entidades");
                 });
 
-            modelBuilder.Entity("Emigrant.App.Dominio.Migrante", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<string>("situacion_laboral")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.ToTable("Migrantes");
-                });
-
-            modelBuilder.Entity("Emigrant.App.Dominio.Personas", b =>
+            modelBuilder.Entity("Emigrant.App.Dominio.Persona", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -80,62 +71,47 @@ namespace Emigrant.App.Persistencia.Migrations
                         .UseIdentityColumn();
 
                     b.Property<string>("apellidos")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ciudad")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("correo")
+                    b.Property<string>("direccionactual")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("direccion")
+                    b.Property<string>("email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("documento")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("fecha_nacimiento")
+                    b.Property<string>("fechanacimiento")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nombre")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("pais_origen")
+                    b.Property<string>("numeroidentificacion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("paisorigen")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("situacionlaboral")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("telefono")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("tipo_documento")
+                    b.Property<string>("tipodocumento")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
 
                     b.ToTable("Personas");
-                });
-
-            modelBuilder.Entity("Emigrant.App.Dominio.Servicio", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<int>("estado")
-                        .HasColumnType("int");
-
-                    b.Property<string>("fecha")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("max_migrantes")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("nombre")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.ToTable("Servicios");
                 });
 #pragma warning restore 612, 618
         }

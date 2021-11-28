@@ -1,12 +1,13 @@
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csprojAssemblyReference.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfoInputs.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfo.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.deps.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CopyComplete
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.deps.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\bin\Debug\netstandard2.1\Emigrant.App.Dominio.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.AssemblyReference.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfoInputs.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.AssemblyInfo.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CoreCompileInputs.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.csproj.CopyComplete
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Persistencia\obj\Debug\netstandard2.1\Emigrant.App.Persistencia.pdb

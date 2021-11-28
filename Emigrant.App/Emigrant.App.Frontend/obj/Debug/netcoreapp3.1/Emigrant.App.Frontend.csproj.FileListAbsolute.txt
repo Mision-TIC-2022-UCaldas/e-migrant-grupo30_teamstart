@@ -1,88 +1,183 @@
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.exe
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.deps.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.runtimeconfig.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.runtimeconfig.dev.json
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csprojAssemblyReference.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.AssemblyInfoInputs.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.AssemblyInfo.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csproj.CoreCompileInputs.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorAssemblyInfo.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorAssemblyInfo.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.TagHelpers.input.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.TagHelpers.output.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorCoreGenerate.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorTargetAssemblyInfo.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorTargetAssemblyInfo.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Emigrant.App.Frontend.StaticWebAssets.Manifest.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Emigrant.App.Frontend.StaticWebAssets.xml
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.genruntimeconfig.cache
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csproj.CopyComplete
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Administrador\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidad\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Gerencia_proyecto\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Migrante\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Create.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\List.cshtml.g.cs
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Dominio.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Persistencia.dll
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Persistencia.pdb
-C:\Users\Catalina Castro\Desktop\hackaton\calentamiento-grupo30_teamstart\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Dominio.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.StaticWebAssets.xml
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.exe
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.deps.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.runtimeconfig.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.runtimeconfig.dev.json
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Dominio.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Persistencia.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Persistencia.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\bin\Debug\netcoreapp3.1\Emigrant.App.Dominio.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csproj.AssemblyReference.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.AssemblyInfoInputs.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.AssemblyInfo.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csproj.CoreCompileInputs.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.MvcApplicationPartsAssemblyInfo.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorAssemblyInfo.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorAssemblyInfo.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Emigrant.App.Frontend.StaticWebAssets.Manifest.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Emigrant.App.Frontend.StaticWebAssets.xml
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.TagHelpers.input.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.TagHelpers.output.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorCoreGenerate.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidad\Create.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidad\Details.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidad\Edit.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidad\List.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\Create.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\Details.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\Edit.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Persona\List.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorTargetAssemblyInfo.cache
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.RazorTargetAssemblyInfo.cs
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.Views.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.csproj.CopyComplete
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.dll
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.pdb
+G:\Andrea v4\MINTIC\04 Desarrollo web\Hackatón\Emigrant v4\e-migrant-grupo30_teamstart-master\Emigrant.App\Emigrant.App.Frontend\obj\Debug\netcoreapp3.1\Emigrant.App.Frontend.genruntimeconfig.cache

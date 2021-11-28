@@ -2072,6 +2072,9 @@
       "Emigrant.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/Emigrant.App.Dominio.dll": {}
         },
@@ -7263,19 +7266,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Catalina Castro\\.nuget\\packages\\": {}
+    "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
+      "projectUniqueName": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
       "projectName": "Emigrant.App.Persistencia",
-      "projectPath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Catalina Castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Persistencia\\obj\\",
+      "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\Emigrant.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Comunicaciones Imp\\.nuget\\packages\\",
+      "outputPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Catalina Castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Comunicaciones Imp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7285,9 +7288,10 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj"
+            "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj": {
+              "projectPath": "G:\\Andrea v4\\MINTIC\\04 Desarrollo web\\Hackatón\\Emigrant v4\\e-migrant-grupo30_teamstart-master\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj"
             }
           }
         }
@@ -7300,6 +7304,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7337,7 +7342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

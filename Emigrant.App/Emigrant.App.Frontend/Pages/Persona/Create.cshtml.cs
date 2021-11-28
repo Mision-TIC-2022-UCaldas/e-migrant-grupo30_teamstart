@@ -6,23 +6,29 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Emigrant.App.Persistencia.AppRepositorios;
 using Emigrant.App.Dominio;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Emigrant.App.Frontend.Pages
 {
+    [Authorize]
     public class FormPersonaModel : PageModel
     {
-       private readonly RepositorioPersona repositorioPersona;
-       [BindProperty]
+
+        private readonly RepositorioPersona repositorioPersona;
+        [BindProperty]
         public Persona Persona {get;set;}
 
+        public FormPersonaModel(RepositorioPersona repositorioPersonas)
+        {
+            this.repositorioPersona=repositorioPersonas;
+        }
 
-       public FormPersonaModel(RepositorioPersona repositorioPersona)
-       {
-            this.repositorioPersona=repositorioPersona;
-       }
-      
+        public void OnGet()
+        {
+ 
+        }
 
-         public IActionResult OnPost()
+        public IActionResult OnPost()
         {
             if(!ModelState.IsValid)
             {
