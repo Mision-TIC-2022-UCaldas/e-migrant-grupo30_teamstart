@@ -12,6 +12,15 @@
             <h4>Create a new account.</h4>
             <hr />
             <div asp-validation-summary="All" class="text-danger"></div>
+             <div class="form-group">
+                <label asp-for="Input.Rol"></label>
+               
+           <select class="form-control form-select" asp-for="Input.Rol" id="Input.Rol" name="Input.Rol" aria-label="Default select example" required>
+            <option value="Entidad">Entidad</option>
+           <option value="Migrante">Migrante</option>
+             </select>
+                <span asp-validation-for="Input.Rol" class="text-danger"></span>
+            </div>
             <div class="form-group">
                 <label asp-for="Input.Email"></label>
                 <input asp-for="Input.Email" class="form-control" />

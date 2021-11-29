@@ -45,6 +45,10 @@ namespace Emigrant.App.Frontend.Areas.Identity.Pages.Account
 
         public class InputModel
         {
+            [DataType(DataType.Password)]
+            [Display(Name = "Rol")]
+            public string Rol { get; set; }
+
             [Required]
             [EmailAddress]
             [Display(Name = "Email")]
@@ -99,6 +103,7 @@ namespace Emigrant.App.Frontend.Areas.Identity.Pages.Account
                     {
                         await _signInManager.SignInAsync(user, isPersistent: false);
                         return LocalRedirect(returnUrl);
+                        
                     }
                 }
                 foreach (var error in result.Errors)
