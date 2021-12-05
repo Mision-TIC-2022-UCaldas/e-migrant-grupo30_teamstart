@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGhUlEikqQKdNcyjSGTl3ZXrApW7HlYPk8rCfaKaA3i12jB5PA2Ykoz4vIIgyP7LUTIKRuzWBp5eLxD+9YAhdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Catalina Castro\\Desktop\\hackaton\\calentamiento-grupo30_teamstart\\Emigrant.App\\Emigrant.App.Dominio\\Emigrant.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catalina Castro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Catalina Castro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

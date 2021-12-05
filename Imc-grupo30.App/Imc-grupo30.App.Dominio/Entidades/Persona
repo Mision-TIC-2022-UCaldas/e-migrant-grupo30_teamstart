@@ -1,0 +1,17 @@
+using System;
+namespace Imc-grupo30.App.Dominio
+
+{
+    public class imc{
+        public int id { get; set; }
+        public string nombre { get; set; }
+        public int edad { get; set; }
+        public string sexo { get; set; }
+        public int altura { get; set; }
+        public int peso { get; set; }
+
+
+        }
+ 
+
+}
